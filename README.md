@@ -1,13 +1,13 @@
-# Chocolate Data Pipeline: Data Analytics Project
+# Chocolate data pipeline: Data analytics project
 
 For this project, I used a dataset of craft chocolate ratings from Kaggle. 
 
-## Tools I Used:
+## Tools I used:
 * **SQL Server (SSMS)** - for database storage.
 * **SSIS (Visual Studio)** - for building the ETL pipeline.
 * **Power BI & Power Query** - for data visualization and final formatting.
 
-## The Process:
+## The process:
 
 1. **Extraction & transformation (ETL in SSIS):** I created a data flow to read the raw CSV file. I cleaned the data by standardizing decimal points (handling the dot vs. comma regional issues) and removing symbols like `%`. I also wrote custom logic to categorize chocolates into "Premium" or "Standard" based on their rating.
    
