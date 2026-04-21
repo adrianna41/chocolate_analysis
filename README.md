@@ -20,4 +20,5 @@ For this project, I used a dataset of craft chocolate ratings from Kaggle.
 ## Dashboard:
 *<img width="1288" height="708" alt="chocolate_dashboard" src="https://github.com/user-attachments/assets/06925bea-a741-4167-b16d-fcd09f407c73" />*
 
+## SSIS process:
 *<img width="812" height="542" alt="ssis_picture" src="https://github.com/user-attachments/assets/ce90c78d-125b-4d31-90ef-def02eca9c35" />*
